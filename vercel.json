@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "node node_modules/next/dist/bin/next build",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+}
